@@ -1,0 +1,3 @@
+C:/Users/piero/Downloads/Generador_BD/cmake-build-debug/CMakeFiles/Generador_BD.dir
+C:/Users/piero/Downloads/Generador_BD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/piero/Downloads/Generador_BD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
